@@ -1,0 +1,14 @@
+{
+  "name": "npm-lernen",
+  "version": "1.0.0",
+  "main": "externalModules.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Berg",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sillyname": "^0.1.0"
+  }
+}
